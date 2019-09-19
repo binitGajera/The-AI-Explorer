@@ -1,4 +1,4 @@
-# CMSC 671 (Fall 2018) Final project
+# CMSC 671 - Principles of Artificial Intelligence \[Final project\]
 
 Code for the final project of CMSC 671 course (Fall 2018)
 

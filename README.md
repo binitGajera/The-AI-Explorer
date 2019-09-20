@@ -1,5 +1,11 @@
 # Principles of Artificial Intelligence \[Final project\]
 
+In this project there will be a rogue agent that will be controlled by the user, and will also have an opponent which will take steps randomly across the environment. The rogue agent(user) has to reach the goal state before the opponent to win the game. There are certain hurdles across the map as well like mountain, wall, road along with which the user would also be able to pick medicine and strength that has been placed randomly on the map. On the final goal state there will be a boss to which the user has to fight and win the game.
+
+The agent can be controlled by giving directions as North, South, East and West.
+
+## Code
+
 To run the code, use the following command:
 ```bash
 $ python play.py --height 10 --width 10 \

@@ -1,7 +1,5 @@
 # Principles of Artificial Intelligence \[Final project\]
 
-Code for the final project of CMSC 671 course (Fall 2018)
-
 To run the code, use the following command:
 ```bash
 $ python play.py --height 10 --width 10 \
@@ -19,3 +17,6 @@ To implement a new agent, create a new agent class inheriting from the `BaseAgen
 * Python >= 3.6
 * Numpy
 * Emoji (package: emoji) -- if you want emoji maps
+
+
+Base code credits: [Erfan Noury](https://github.com/erfannoury)
